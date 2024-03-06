@@ -1,0 +1,39 @@
+#cadastro {
+    background: rgb(245, 245, 245);
+    width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 10px #ddd;
+    border-radius: 20px;
+}
+
+form div {
+    width: 400px;
+    margin: 10px auto;
+}
+
+#direita {
+    text-align: right;
+}
+
+label {
+    width: 40%;
+    display: inline-block;
+}
+
+input {
+    width: 60%;
+}
+
+button {
+    background-color: black;
+    color: ghostwhite;
+    text-transform: uppercase;
+    border-radius: 15px;
+    border: none;
+    padding: 10px;
+    margin-right: 25px;
+}
+
+
